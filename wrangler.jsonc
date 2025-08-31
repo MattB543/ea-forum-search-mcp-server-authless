@@ -24,5 +24,9 @@
 	},
 	"observability": {
 		"enabled": true
+	},
+	"vars": {
+		"AI_SAFETY_FEED_DB_URL": "",
+		"OPENAI_KEY": ""
 	}
 }
